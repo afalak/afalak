@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **mlops**
 
-- 👨‍💻 All of my projects are available at [afalak.github.io/all.html](afalak.github.io/all.html)
+- 👨‍💻 All of my projects are available at [https://afalak.github.io/all.html](afalak.github.io/all.html)
 
-- 📝 I regularly write articles on [falakah.blogspot.com](falakah.blogspot.com)
+- 📝 I regularly write articles on [https://falakah.blogspot.com](falakah.blogspot.com)
 
 - 💬 Ask me about **AWS, Springboot, SOA, Microservices, SecDevOps**
 
 - 📫 How to reach me **afalak at out????.com**
 
-- 📄 Know about my experiences [afalak.github.io](afalak.github.io)
+- 📄 Know about my experiences [https://afalak.github.io](afalak.github.io)
 
 - ⚡ Fun fact **I fly kites**
 
